@@ -1,0 +1,30 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "First React Project",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapritchard/indecision-app.git"
+  },
+  "author": "Reece Pritchard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapritchard/indecision-app/issues"
+  },
+  "homepage": "https://github.com/rapritchard/indecision-app#readme"
+}
