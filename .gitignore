@@ -62,3 +62,6 @@ typings/
 
 # eslintrc.js rules
 .eslintrc.js
+
+# Webpack bundle file
+public/scripts/bundle.js
